@@ -1,7 +1,5 @@
 ## Hi, I'm **Nastya Borisova**!
 
-<img align="right" alt="GIF"  src="https://media3.giphy.com/media/z24q9PQNlw19u/giphy.gif" />
-
 ### About Me
 ⭐ I'm beginner Frontend Developer.  
 🌍 I am currently looking for a job.
