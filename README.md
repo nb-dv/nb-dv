@@ -6,14 +6,14 @@
   
 
 ### My contacts:
-<a href="https://t.me/nb_dv" target="_blank">
-    <img height="30px" src="icons/telegram.svg">
+<a href="https://t.me/nb_dv" target="_blank" style="display: inline-block; width: 30px; height: 30px;">
+    <img height="100%" width="100%" src="icons/telegram.svg">
 </a>
-<a href="https://www.instagram.com/anasstiya" target="_blank" style="display: inline-block; margin:0 8px 0 8px">
-    <img height="30" src="icons/insta.svg">
+<a href="https://www.instagram.com/anasstiya" target="_blank" style="display: inline-block; width: 30px; height: 30px; margin:0 8px 0 8px">
+    <img height="100%" width="100%" src="icons/insta.svg">
 </a> 
-<a href="https://www.linkedin.com/in/anastasia-borisova-77b596233/" target="_blank">
-    <img height="30px" src="icons/linked-in.svg">
+<a href="https://www.linkedin.com/in/anastasia-borisova-77b596233/" target="_blank" style="display: inline-block; width: 30px; height: 30px;">
+    <img height="100%" width="100%" src="icons/linked-in.svg">
 </a>
 
 ### Languages and Tools:   
